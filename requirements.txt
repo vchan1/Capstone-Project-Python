@@ -1,0 +1,9 @@
+# Phase 1: web scraping
+requests
+beautifulsoup4
+
+# Later phases: API, client, and visualization
+fastapi
+uvicorn
+pandas
+matplotlib
